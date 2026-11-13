@@ -1,0 +1,6 @@
+# original photos stay on your computer, only the processed ones go online
+images/upload_images/*
+!images/upload_images/.gitkeep
+
+.DS_Store
+__pycache__/

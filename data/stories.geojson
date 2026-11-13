@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.37, 51.34] },
+      "properties": {
+        "place": "Leipzig",
+        "event_type": "heat",
+        "month": "2026",
+        "title": "test, extreme heat in Leipzig 2026",
+        "title_en": "test, extreme heat in Leipzig 2026",
+        "story": "Test-Eintrag. Kann gelöscht werden, sobald echte Einträge drin sind.",
+        "story_en": "Test entry. Can be deleted once there are real entries.",
+        "image": "images/web_images/test-extreme-heat-leipzig-2026.webp",
+        "image_alt": "Platzhalterbild für den Test-Eintrag",
+        "image_alt_en": "Placeholder image for the test entry",
+        "image_credit": "test",
+        "articles": []
+      }
+    }
+  ]
+}

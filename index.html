@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Extreme Weather and Climate Change Map</title>
+  <meta name="description" content="Lived experiences of extreme weather and climate impacts in Europe, on an open map.">
+  <link rel="stylesheet" href="vendor/maplibre-gl/maplibre-gl.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="titles">
+      <h1 data-i18n="title">Extreme Weather and Climate Change Map</h1>
+      <p data-i18n="subtitle">Lived experiences of extreme weather and climate impacts in Europe</p>
+    </div>
+    <div class="actions">
+      <button id="btn-info" type="button" data-i18n="about">About</button>
+      <button id="btn-lang" type="button" aria-label="Switch language / Sprache wechseln">DE</button>
+    </div>
+  </header>
+
+  <main id="map" aria-label="Map"></main>
+  <aside id="legend" class="legend" aria-label="Legend"></aside>
+  <p id="status" class="status" role="status" hidden></p>
+
+  <dialog id="info">
+    <form method="dialog">
+      <button class="close" type="submit" aria-label="Close">×</button>
+    </form>
+    <div id="info-content"></div>
+  </dialog>
+
+  <script src="vendor/maplibre-gl/maplibre-gl.js"></script>
+  <script src="map.js"></script>
+</body>
+</html>
