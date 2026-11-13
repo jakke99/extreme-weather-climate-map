@@ -3,20 +3,187 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [12.37, 51.34] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.42,
+          39.43
+        ]
+      },
+      "properties": {
+        "place": "Paiporta (Valencia)",
+        "event_type": "flood",
+        "month": "2024-10",
+        "title": "Die DANA-Flut von Valencia",
+        "title_en": "The DANA flood in Valencia",
+        "story": "Am 29. Oktober 2024 fielen im Umland von Valencia in wenigen Stunden knapp 500 Liter Regen auf den Quadratmeter. Mariann war für ihr Erasmus-Semester in Valencia, und ich weiß noch, wie ich am Tag vorher ungläubig vor den Wettermodellen gesessen habe und nicht glauben konnte, wie viel Regen vorhergesagt wurde. Mariann hat dann im Nachgang gemeinsam mit Freundinnen viele Tage beim Aufräumen geholfen. Als ich einen Monat später selbst nach Valencia gefahren bin, war es erschreckend, ganze Türme von Autos zu sehen, die am Straßenrand aufgestapelt waren.",
+        "story_en": "On 29 October 2024, almost 500 litres of rain per square metre fell in just a few hours in the area around Valencia. Mariann was in Valencia for her Erasmus semester, and I still remember sitting in front of the weather models the day before, unable to believe how much rain they were forecasting. Afterwards, Mariann and her friends spent many days helping with the clean-up. When I went to Valencia myself a month later, it was shocking to see whole towers of cars piled up at the roadside.",
+        "image": "",
+        "image_alt": "",
+        "image_alt_en": "",
+        "image_credit": "",
+        "articles": [
+          {
+            "title": "Why were the floods in Spain so bad? A visual guide",
+            "url": "https://www.theguardian.com/world/2024/oct/31/why-were-the-floods-in-spain-so-bad-a-visual-guide",
+            "source": "The Guardian"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          51.35
+        ]
+      },
       "properties": {
         "place": "Leipzig",
-        "event_type": "heat",
-        "month": "2026",
-        "title": "test, extreme heat in Leipzig 2026",
-        "title_en": "test, extreme heat in Leipzig 2026",
-        "story": "Test-Eintrag. Kann gelöscht werden, sobald echte Einträge drin sind.",
-        "story_en": "Test entry. Can be deleted once there are real entries.",
-        "image": "images/web_images/test-extreme-heat-leipzig-2026.webp",
-        "image_alt": "Platzhalterbild für den Test-Eintrag",
-        "image_alt_en": "Placeholder image for the test entry",
-        "image_credit": "test",
-        "articles": []
+        "event_type": "supercell",
+        "month": "2024-06",
+        "title": "Superzelle vor dem EM-Spiel",
+        "title_en": "A supercell before the Euro 2024 match",
+        "story": "Für den 18. Juni 2024, den Tag des EM-Spiels Portugal gegen Tschechien, waren schon im Vorfeld schwere Gewitter vorhergesagt. Dann entwickelte sich tatsächlich eine Superzelle – eine langlebige, rotierende Gewitterzelle – mit extremem Starkregen und Hagel. Ich stand noch vor der Red Bull Arena und habe beobachtet, wie die Wolken aufzogen. Erwischt haben mich der Regen und der Sturm erst auf dem Heimweg. Die EM-Fanzone auf dem Augustusplatz musste an diesem Tag gleich zweimal schließen. Eine Superzelle direkt über Leipzig erlebt man nicht oft.",
+        "story_en": "Severe thunderstorms had already been forecast for 18 June 2024, the day of the Euro 2024 match between Portugal and Czechia. And then a supercell actually formed – a long-lived, rotating thunderstorm – bringing extreme rain and hail. I was still standing outside the Red Bull Arena, watching the clouds build. The rain and wind only caught me on my way home. The fan zone on Augustusplatz had to close twice that day. You don't often get a supercell right over Leipzig.",
+        "image": "images/web_images/june-extre-e-rain-2024-b.webp",
+        "image_alt": "",
+        "image_alt_en": "",
+        "image_credit": "",
+        "articles": [
+          {
+            "title": "Sachsen nach dem Unwetter: Tornado-Meldung, Sperrungen, Schäden",
+            "url": "https://www.lvz.de/mitteldeutschland/sachsen-nach-dem-unwetter-tornado-meldung-sperrungen-schaeden-KSPZURGJOJH6PIKQIFN4N6KRSY.html",
+            "source": "Leipziger Volkszeitung"
+          },
+          {
+            "title": "Nach kurzer Unterbrechung: EM-Fanzone wieder offen",
+            "url": "https://www.zeit.de/news/2024-06/18/nach-kurzer-unterbrechung-em-fanzone-wieder-offen",
+            "source": "ZEIT ONLINE (dpa)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.99,
+          50.52
+        ]
+      },
+      "properties": {
+        "place": "Altenahr (Ahrtal)",
+        "event_type": "flood",
+        "month": "2021-07",
+        "title": "Die Flut im Ahrtal",
+        "title_en": "The Ahr valley flood",
+        "story": "In der Nacht vom 14. auf den 15. Juli 2021 wurde das Ahrtal von einer tödlichen Flut heimgesucht. Als ich eine Woche später mit einem Konvoi des Deutschen Roten Kreuzes nach Altenahr gefahren bin, um die Bergungsarbeiten zu unterstützen, war ich schockiert: der Geruch von Schlamm, die müden Gesichter der Anwohner und die pure Zerstörung. Man hat den Leuten angemerkt, dass sie in dieser Situation einfach funktionieren mussten. Knapp zwei Jahre vor der Katastrophe war ich in Altenahr wandern gewesen, und es war verrückt, mich daran zu erinnern, von welch anderer Seite sich die Natur im Ahrtal damals gezeigt hatte als während der Flut.",
+        "story_en": "On the night of 14–15 July 2021, the Ahr valley was struck by a deadly flood. When I drove to Altenahr with a German Red Cross convoy a week later to help with the recovery work, I was so shocked. The smell of mud, the tired faces of the residents and the sheer destruction. And you could tell that people simply had to keep functioning in that situation. I had been hiking in Altenahr almost two years before the disaster, and it was strange to remember how differently nature in the Ahr valley had shown itself back then compared with during the flood.",
+        "image": "",
+        "image_alt": "",
+        "image_alt_en": "",
+        "image_credit": "",
+        "articles": [
+          {
+            "title": "Chronik der Ahrtal-Hochwasser-Katastrophe",
+            "url": "https://reportage.wdr.de/chronik-ahrtal-hochwasser-katastrophe",
+            "source": "WDR"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7,
+          50.83
+        ]
+      },
+      "properties": {
+        "place": "Maastricht",
+        "event_type": "flood",
+        "month": "2021-07",
+        "title": "Evakuierung in Maastricht",
+        "title_en": "Evacuation in Maastricht",
+        "story": "Am Abend des 15. Juli 2021 wurden zwei Stadtteile von Maastricht evaktuiert, wo ich zu dieser Zeit gelebt habe. Einige meiner Freunde mussten ihre Wohnungen verlassen. Ein Tiefdruckgebiet hatte mit dem zugehörigen Niederschlag die Maas über die Ufer treten lassen.",
+        "story_en": "Flooding in Maastricht",
+        "image": "images/web_images/u-berflutung-maastricht.webp",
+        "image_alt": "",
+        "image_alt_en": "",
+        "image_credit": "Jakob",
+        "articles": [
+          {
+            "title": "Two Maastricht neighborhoods evacuated due to floods; 10,000 people seek shelter",
+            "url": "https://nltimes.nl/2021/07/15/two-maastricht-neighborhoods-evacuated-due-floods-10000-people-seek-shelter",
+            "source": "NL Times"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.03,
+          40.98
+        ]
+      },
+      "properties": {
+        "place": "Istanbul (Kadıköy)",
+        "event_type": "supercell",
+        "month": "2023-09",
+        "title": "Superzelle über Istanbul",
+        "title_en": "Supercell over Istanbul",
+        "story": "Ich war mit Mariann in Istanbul, und wir haben von der asiatischen Seite aus die dunkelsten Regenwolekn gesehen, die ich jemals gesehen habe. Es war eine Superzelle über der europäischen Seite. Wir haben keinen einzigen Tropfen abbekommen, aber dann am nächsten Tag herausgefunden, dass nur einige Kilometer weiter Menschen bei diesem Unwetter tragischerweise gestorben sind.",
+        "story_en": "I was in Istanbul with Mariann, and from the Asian side we watched a massive storm. It was a supercell. We didn't get a single drop, but then found out that just a few kilometres away people had died. That was incredibly sad.",
+        "image": "images/web_images/supercell-istanbul.webp",
+        "image_alt": "Superzelle über Istanbul",
+        "image_alt_en": "Supercell over Istanbul",
+        "image_credit": "",
+        "articles": [
+          {
+            "title": "Floods hit Turkey's northwest, seven killed",
+            "url": "https://www.reuters.com/world/middle-east/floods-hit-turkeys-northwest-five-killed-2023-09-06/",
+            "source": "Reuters"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.91,
+          51.06
+        ]
+      },
+      "properties": {
+        "place": "Hitdorf (Leverkusen)",
+        "event_type": "drought",
+        "month": "2026-08",
+        "title": "Niedrigwasser am Rhein",
+        "title_en": "Low water on the Rhine",
+        "story": "Normalerweise ist die Fähre in Hitdorf im Sommer eine tolle Möglichkeit, um mit dem Fahrrad über den Rhein und weiter nach Köln zu fahren. Diesen Sommer stand die Fähre wegen des Niedrigwassers im Rhein viele Wochen still. Bei meinem Besuch bei meinen Eltern war es erschreckend zu sehen, wie wenige Schiffe noch fahren konnten – und wie wenige Radfahrer am Rheinufer unterwegs waren, weil es außerdem so heiß war!",
+        "story_en": "In summer, the ferry in Hitdorf is usually a great way to cross the Rhine by bike and ride on to Cologne. This summer, the ferry stood still for many weeks because of the low water on the Rhine. When I visited my parents, it was shocking to see how few ships were still able to sail. And how few cyclists were out along the riverbank, because it was so hot too!",
+        "image": "",
+        "image_alt": "",
+        "image_alt_en": "",
+        "image_credit": "",
+        "articles": [
+          {
+            "title": "Rekordtiefststand: Rheinpegel bei Köln misst keinen halben Meter",
+            "url": "https://www.zdfheute.de/panorama/rhein-niedrigwasser-rekordtiefststand-flusspegel-schiffsverkehr-nordrhein-westfalen-100.html",
+            "source": "ZDFheute"
+          }
+        ]
       }
     }
   ]
